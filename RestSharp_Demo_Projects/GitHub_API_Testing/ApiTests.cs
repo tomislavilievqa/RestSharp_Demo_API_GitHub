@@ -23,6 +23,7 @@ namespace GitHub_API_Testing
         public const string username = "tomislavilievqa";
         public const string password = "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";
         public const string repoName = "postmanapi";
+        // I am just testing the pull/push requests
         // result in a two fields
         //public RestResponse responsePublic;
         //public RestResponse responsePrivate;
